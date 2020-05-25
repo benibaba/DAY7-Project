@@ -1,0 +1,16 @@
+A PROGRAM based on voice assistant using python
+Libraries used :-
+1. pyttsx3
+2. SpeechRecognition
+3. Wikipedia
+
+It can be used to implement following tasks:
+1.Search Google
+2.Search Wikipedia 
+3.YouTube 
+4.Search stackoverflow
+5.Play music
+6.Tell us the current time
+7.Sending Emails etc 
+
+VOICE COMMANDS can be used to operate it
